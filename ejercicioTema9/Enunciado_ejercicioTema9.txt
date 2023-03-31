@@ -1,0 +1,20 @@
+Ejercicio TEMA 9
+
+  Enunciado:
+
+  Crea una clase Persona con las siguientes variables:
+
+ -La edad;
+ -El nombre;
+ -El telefono.
+
+  Una vez creada la clase, crea una clase nueva Clase Cliente que herede 
+de Persona, esta nueva clase tendrá la variable crédito solo para esa clase.
+
+  Crea ahora un objeto de la Clase Cliente que debe tener como propiedades la
+edad, el teléfono, el nombre y el crédito, tenes que darles valor y mostrarlos
+por pantalla.
+
+  Una vez echo esto, haz lo mismo con la Clase Trabajador que herede de Persona
+y una variable salario que solo tenga la Clase Trabajador.
+ 

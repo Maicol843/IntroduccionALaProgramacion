@@ -1,0 +1,14 @@
+Ejercicio TEMA8
+
+  Enunciado:
+
+ -Crear clase Persona
+
+ -Crear variables las privadas edad, nombre y teléfono de la clase Persona
+
+ -Crear gets y sets de cada propiedad
+
+ -Crear un objeto Persona en el main
+
+ -Utiliza los gets y sets para darles valores a las propiedades edad, nombre
+  y teléfono, por último, muestralas por consola.
